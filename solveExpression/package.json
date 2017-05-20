@@ -1,0 +1,9 @@
+{
+  "name": "solve-expression",
+  "version": "0.0.0",
+  "description": "solveExpression",
+  "main": "app.js",
+  "author": {
+    "name": "toerc"
+  }
+}
