@@ -1,0 +1,9 @@
+{
+  "name": "inch-to-cm",
+  "version": "0.0.0",
+  "description": "inchToCm",
+  "main": "app.js",
+  "author": {
+    "name": "toerc"
+  }
+}

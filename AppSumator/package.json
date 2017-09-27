@@ -1,0 +1,10 @@
+{
+  "name": "app-sumator",
+  "version": "0.0.0",
+  "description": "AppSumator",
+  "main": "main.js",
+  "author": {
+    "name": "toerc"
+  },
+  "dependencies": {}
+}

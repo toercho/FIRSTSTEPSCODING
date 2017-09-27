@@ -1,0 +1,9 @@
+{
+  "name": "usd-to-lv",
+  "version": "0.0.0",
+  "description": "usdToLV",
+  "main": "app.js",
+  "author": {
+    "name": "toerc"
+  }
+}

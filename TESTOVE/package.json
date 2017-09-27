@@ -1,0 +1,9 @@
+{
+  "name": "testove",
+  "version": "0.0.0",
+  "description": "TESTOVE",
+  "main": "app.js",
+  "author": {
+    "name": "toerc"
+  }
+}

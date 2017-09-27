@@ -1,0 +1,9 @@
+{
+  "name": "triangle-of--55-stars",
+  "version": "0.0.0",
+  "description": "Triangle-Of- 55-Stars",
+  "main": "app.js",
+  "author": {
+    "name": "toerc"
+  }
+}

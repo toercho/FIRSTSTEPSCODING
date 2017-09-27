@@ -1,0 +1,9 @@
+{
+  "name": "num-1-to-20",
+  "version": "0.0.0",
+  "description": "num-1-to-20",
+  "main": "app.js",
+  "author": {
+    "name": "toerc"
+  }
+}

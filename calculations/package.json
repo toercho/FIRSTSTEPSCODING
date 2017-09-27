@@ -1,0 +1,9 @@
+{
+  "name": "calculations",
+  "version": "0.0.0",
+  "description": "calculations",
+  "main": "app.js",
+  "author": {
+    "name": "toerc"
+  }
+}

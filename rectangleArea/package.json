@@ -1,0 +1,9 @@
+{
+  "name": "rectangle-area",
+  "version": "0.0.0",
+  "description": "rectangleArea",
+  "main": "app.js",
+  "author": {
+    "name": "toerc"
+  }
+}
